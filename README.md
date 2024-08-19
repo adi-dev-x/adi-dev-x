@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adi-dev-x/adi-dev-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adi-dev-x/adi-dev-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adi-dev-x/adi-dev-x/output/github-contribution-grid-snake.svg">
+</picture>
 <div align="center">
   <p align="right" style="font-family:Orbitron;">PROFILE VISITS</p>
   <img align="right" src="https://profile-counter.glitch.me/adithyan2021/count.svg">
