@@ -2,7 +2,7 @@
 
 <div align="center">
   <p align="right" style="font-family:Orbitron;">PROFILE VISITS</p>
-  <img align="right" src="https://profile-counter.glitch.me/adithyan2021/count.svg">
+  <img align="right" src="https://profile-counter.glitch.me/adi-dev-x/count.svg">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi!+I+am+Adithyan+U;GoLang+NodeJS+Arduino+Devops;Freelancer" alt="Typing SVG" />
