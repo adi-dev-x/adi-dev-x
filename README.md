@@ -9,13 +9,13 @@
   </a>
 </div>
 <script>
-  fetch("https://profile-counter.glitch.me/adi-dev-x/count.svg")
-    .then(response => response.text())
-    .then(data => {
-      const svgContent = new DOMParser().parseFromString(data, "image/svg+xml");
-      const countText = svgContent.querySelector("text").textContent;
-      const profileVisits = parseInt(countText, 10);
-      const halfVisits = profileVisits *10;
+  // fetch("https://profile-counter.glitch.me/adi-dev-x/count.svg")
+  //   .then(response => response.text())
+  //   .then(data => {
+  //     const svgContent = new DOMParser().parseFromString(data, "image/svg+xml");
+  //     const countText = svgContent.querySelector("text").textContent;
+  //     const profileVisits = parseInt(countText, 10);
+  //     const halfVisits = profileVisits *10;
       
 
     });
