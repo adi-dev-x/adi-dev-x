@@ -8,18 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi!+I+am+Adithyan+U;GoLang+NodeJS+Arduino+Devops;Freelancer" alt="Typing SVG" />
   </a>
 </div>
-<script>
-  // fetch("https://profile-counter.glitch.me/adi-dev-x/count.svg")
-  //   .then(response => response.text())
-  //   .then(data => {
-  //     const svgContent = new DOMParser().parseFromString(data, "image/svg+xml");
-  //     const countText = svgContent.querySelector("text").textContent;
-  //     const profileVisits = parseInt(countText, 10);
-  //     const halfVisits = profileVisits *10;
-      
 
-    });
-</script>
 <br>
 # 💫 About Me:
 🌱 I’m currently learning Go Lang, gRPC, GraphQL, Microservices
